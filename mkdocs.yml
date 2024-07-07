@@ -31,21 +31,7 @@ theme:
 
 plugins:
   - blog
-
-  # CI=1 mkdocs build
-  - group:
-      enabled: !ENV CI
-      plugins:
-        - git-revision-date-localized
-        - git-committers
-
-  # INSIDERS=1 mkdocs build
-  - group:
-      enabled: !ENV INSIDERS
-      plugins:
-        - optimize
-        - privacy
-        - meta
+  - meta
 
 extra:
   social:
