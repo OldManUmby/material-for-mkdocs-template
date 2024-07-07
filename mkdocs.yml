@@ -30,8 +30,8 @@ theme:
       accent: lime
 
 plugins:
-  - search
   - blog
+  - meta
 
 extra:
   social:
