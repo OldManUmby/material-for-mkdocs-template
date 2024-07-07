@@ -1,4 +1,4 @@
-# MkDocs Materials Template
+# Material for MkDocs Template
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) is a powerful [Markdown](https://www.markdownguide.org) documentation framework on top of [MkDocs](https://www.mkdocs.org), a static site generator for project documentation. This GitHub repo is a complete installation of Material for MkDocs, complete with many of the most useful YML settings.
 
