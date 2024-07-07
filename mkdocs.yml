@@ -1,4 +1,4 @@
-site_name: Driftengine
+site_name: Material for MkDocs Template Demo
 theme:
   name: material
   features:
@@ -51,4 +51,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright:
-  Copyright 2024 <a href="https://oldmanumby.com" target="_blank" rel="noopener">Old Man Umby</a>
+  Add Your Copyright Statement <a href="https://en.wikipedia.org/wiki/Copyright" target="_blank" rel="noopener">Here</a>.
