@@ -5,5 +5,6 @@ date:
 
 # Sample Blog Post Draft
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+>To publish this page, simply move it directly to `blog > posts` and it will automatically publish.
