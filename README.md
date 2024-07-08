@@ -4,6 +4,6 @@
 
 I've set up this repo as a template specifically for the laymen. Click the green button "Use this Template" above to create a new documentation repo complete with GitHub Pages. It takes less than a few minutes! Then, add a domain (optional) and begin adding your markdown docs.
 
-To view a thorough step-by-step installation, including a localhost, visit [James Willitt's YouTube video](https://youtu.be/Q-YA_dA8C20?si=l00iX2nvDRIFSwOb).
+To view a more thorough step-by-step installation, including a localhost, visit [James Willitt's YouTube video](https://youtu.be/Q-YA_dA8C20?si=l00iX2nvDRIFSwOb).
 
 To customize the site, adjust the mkdocs.yml file to suit your needs; for more info on customizing the site, visit [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
