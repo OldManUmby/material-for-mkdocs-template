@@ -1,4 +1,5 @@
-# Instructions will go here.
+# This file is used for a standard Material for MkDocs installation.
+# For Non-Insiders, rename this file to: 'mkdocs.yml' replacing the current file.
 
 site_name: Material for MkDocs Template Demo
 site_description: An Demo Site for Material for MkDocs GitHub Template
@@ -37,7 +38,6 @@ theme:
 plugins:
   - search
   - blog
-  - meta
 
 extra:
   social:
