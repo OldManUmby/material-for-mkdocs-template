@@ -5,8 +5,7 @@ date:
 
 # Sample Blog Post
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 >This is a sample blog post. Posts are published based upon the information contained in the YAML header. To keep the files sorted properly, use a naming scheme.
 
