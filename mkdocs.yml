@@ -29,8 +29,8 @@ theme:
       primary: teal
       accent: lime
 
-# If you're not a Material for MkDocs Insider, remove the following plugins:
-# List of plugin go here.
+# If you're not a Material for MkDocs Insider, remove the following plugins.
+# Remove: meta, optimize, projects, typset.
 
 plugins:
   - search
