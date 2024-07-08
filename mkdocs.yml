@@ -37,6 +37,7 @@ theme:
 plugins:
   - search
   - blog
+  - meta
 
 extra:
   social:
