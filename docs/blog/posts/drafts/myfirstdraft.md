@@ -11,6 +11,7 @@ tags:
   - Healing
 readtime: 3
 pin: false
+# slug: change slug
 ---
 
 # Sample Blog Post Draft

@@ -12,6 +12,7 @@ tags:
   - Classes
 readtime: 6
 pin: false
+# slug: change slug
 ---
 
 # Sample Blog Post 1

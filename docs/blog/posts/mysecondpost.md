@@ -11,6 +11,7 @@ tags:
   - Skills
 readtime: 5
 pin: true
+# slug: change slug
 ---
 
 # Sample Pinned Post 2
