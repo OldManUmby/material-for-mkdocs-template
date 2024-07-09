@@ -38,7 +38,9 @@ theme:
 plugins:
   - search
   - blog
+      archive_date_format: yyyy mmm
   - meta
+  - tags
 
 extra:
   social:
