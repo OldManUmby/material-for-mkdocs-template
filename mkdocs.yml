@@ -11,7 +11,7 @@ repo_name: oldmanumby/material-for-mkdocs-template
 repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
 
 # Copyright
-copyright: Copyright &copy; 2024 B.A. Umberger
+copyright: © Copyright 2024 B.A. Umberger
 
 # CONFIGURATION
 theme:
@@ -58,6 +58,12 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: material/scroll-text-outline
+  icon:
+    logo: material/scroll-text-outline
 
 extra_css:
   - stylesheets/extra.css
