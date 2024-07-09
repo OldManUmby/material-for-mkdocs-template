@@ -65,4 +65,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright:
-  Add Your Copyright Statement <a href="https://en.wikipedia.org/wiki/Copyright" target="_blank" rel="noopener">Here</a>.
+  Add Your Copyright Statement <a href="https://en.wikipedia.org/wiki/Copyright" target="_blank" rel="noopener">Here</a>
