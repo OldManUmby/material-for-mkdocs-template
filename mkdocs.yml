@@ -37,7 +37,8 @@ theme:
 
 plugins:
   - search
-  - blog
+  - blog:
+      archive_date_format: MMMM yyyy
       authors_profiles: true
   - meta
   - tags:
