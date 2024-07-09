@@ -8,7 +8,7 @@ readtime: 5
 pin: true
 ---
 
-# Sample Blog Post 2
+# Sample Pinned Post 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
