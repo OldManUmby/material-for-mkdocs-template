@@ -1,26 +1,36 @@
-# Instructions will go here.
+# Special instructions go here.
 
+# PROJECT INFORMATION
 site_name: Material for MkDocs Template Demo
-site_description: An Demo Site for Material for MkDocs GitHub Template
+site_author: B.A. Umberger
 site_url: https://oldmanumby.github.io/material-for-mkdocs-template
+site_description: An demo GitHub template for Material for MkDocs Insiders Edition complete with GH Pages.
 
+# REPOSITORY
+repo_name: oldmanumby/material-for-mkdocs-template
+repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
+
+# Copyright
+copyright: Copyright &copy; 2024 B.A. Umberger
+
+# CONFIGURATION
 theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-#    - navigation.expand
-    - navigation.tracking
-    - navigation.path
-#    - navigation.prune
-#    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    #- navigation.expand
+    - navigation.path
+    #- navigation.prune
+    - navigation.top
+    #- navigation.indexes
     - toc.integrate
     - toc.follow
     - search.suggest
@@ -30,18 +40,24 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to Dark Mode
-      primary: teal
-      accent: purple
-    - scheme: slate
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to Light Mode
-      primary: teal
-      accent: lime
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
 
 extra_css:
   - stylesheets/extra.css
