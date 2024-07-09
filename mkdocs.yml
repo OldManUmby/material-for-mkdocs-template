@@ -50,9 +50,14 @@ plugins:
 
 extra:
   social:
+    - icon: /fontawesome/regular/envelope
+      name: Contact Old Man Umby
+      link: mailto:contact@oldmanumby.com
     - icon: fontawesome/brands/github-alt
+      name: Old Man Umby on Github
       link: https://github.com/OldManUmby
     - icon: fontawesome/brands/twitter
+      name: Old Man Umby on Twitter
       link: https://twitter.com/oldmanumby
 
 markdown_extensions:
