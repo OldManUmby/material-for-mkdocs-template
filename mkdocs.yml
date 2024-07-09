@@ -10,12 +10,18 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-#    - navigation.indexes
+#    - navigation.expand
+    - navigation.tracking
+    - navigation.path
+#    - navigation.prune
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
+    - toc.follow
     - toc.integrate
     - search.suggest
     - search.highlight
