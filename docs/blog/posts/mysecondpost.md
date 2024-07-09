@@ -5,7 +5,7 @@ date:
 categories:
   - Dice Mechanics
 readtime: 5
-pin: false
+pin: true
 ---
 
 # Sample Blog Post 2
