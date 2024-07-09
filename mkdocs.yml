@@ -21,8 +21,8 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
-    - toc.follow
     - toc.integrate
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
