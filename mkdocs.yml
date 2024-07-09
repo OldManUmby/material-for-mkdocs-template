@@ -6,6 +6,7 @@ site_url: https://oldmanumby.github.io/material-for-mkdocs-template
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.top
     - navigation.tabs
@@ -31,6 +32,9 @@ theme:
         name: Switch to Light Mode
       primary: teal
       accent: lime
+
+extra_css:
+  - stylesheets/extra.css
 
 # If you're NOT a Material for MkDocs Insider, remove the following plugins.
 # Remove: meta, optimize, projects, typset.
