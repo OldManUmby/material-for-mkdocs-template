@@ -39,7 +39,8 @@ plugins:
   - search
   - blog
   - meta
-  - tags
+  - tags:
+      tags_file: blog/tags.md
 
 extra:
   social:
