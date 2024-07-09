@@ -61,8 +61,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/branding/favicon.png
-  logo: assets/branding/favicon.png
+  favicon: assets/branding/favicon.svg
+  logo: assets/branding/logo.svg
 
 extra_css:
   - stylesheets/extra.css
