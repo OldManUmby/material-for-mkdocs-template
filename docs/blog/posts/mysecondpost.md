@@ -4,6 +4,9 @@ date:
   updated: 2023-10-31
 categories:
   - Dice Mechanics
+tags:
+  - Abilities
+  - Skills
 readtime: 5
 pin: true
 ---

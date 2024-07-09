@@ -4,6 +4,9 @@ date:
   updated: 2024-07-04
 categories:
   - Dice Mechanics
+tags:
+  - Combat
+  - Healing
 readtime: 3
 pin: false
 ---
