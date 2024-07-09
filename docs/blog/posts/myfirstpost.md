@@ -2,6 +2,8 @@
 date:
   created: 2023-07-04
   updated: 2023-01-06
+categories:
+  - Roleplaying Games
 readtime: 5
 pin: false
 ---
