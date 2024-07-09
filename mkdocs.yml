@@ -21,7 +21,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    #- navigation.instant.preview
+    - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -91,13 +91,6 @@ extra:
       link: https://twitter.com/oldmanumby
 
 markdown_extensions:
-  - material.extensions.preview:
-      targets:
-        include:
-          - changelog/index.md
-          - customization.md
-          - insiders/changelog/*
-          - setup/extensions/*
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
