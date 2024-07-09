@@ -47,14 +47,14 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom
-      accent: deep orange
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
-      accent: deep orange
+      accent: red
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
