@@ -4,7 +4,7 @@ date:
   updated: 2024-01-06
 categories:
   - Roleplaying Games
-readtime: 5
+readtime: 6
 pin: true
 ---
 

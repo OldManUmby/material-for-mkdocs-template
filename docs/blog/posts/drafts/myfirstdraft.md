@@ -2,7 +2,9 @@
 date:
   created: 2024-07-04
   updated: 2024-07-04
-readtime: 5
+categories:
+  - Dice Mechanics
+readtime: 3
 pin: false
 ...
 links:
