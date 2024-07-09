@@ -1,11 +1,11 @@
 ---
 date:
-  created: 2023-07-04
-  updated: 2024-01-06
+  created: 2023-09-04
+  updated: 2023-10-31
 categories:
-  - Roleplaying Games
+  - Dice Mechanics
 readtime: 5
-pin: true
+pin: false
 ---
 
 # Sample Blog Post
