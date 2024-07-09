@@ -5,7 +5,7 @@ date:
 categories:
   - Roleplaying Games
 readtime: 5
-pin: false
+pin: true
 ---
 
 # Sample Blog Post
