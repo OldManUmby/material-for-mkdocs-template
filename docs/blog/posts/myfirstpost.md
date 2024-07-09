@@ -3,6 +3,7 @@ date:
   created: 2023-07-04
   updated: 2023-01-06
 readtime: 5
+pin: false
 ...
 links:
   - Homepage: index.md
@@ -17,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 >This is a sample blog post. Posts are published based upon the information contained in the YAML header. To keep the files sorted properly, use a naming scheme.
 
-<!--Enter the file naming scheme here with a legend below>
+<!--Enter the file naming scheme here with a legend below-->
