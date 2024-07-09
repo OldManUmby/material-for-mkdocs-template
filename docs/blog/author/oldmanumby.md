@@ -1,3 +1,3 @@
-# B.A. Umberger (Old Man Umby)
+# B.A. Umberger
 
-Under Construction
+Gamer. Designer. Writer. Publisher. Making RPGs Great Again!
