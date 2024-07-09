@@ -2,6 +2,8 @@
 date:
   created: 2023-09-04
   updated: 2023-10-31
+authors:
+  - oldmanumby
 categories:
   - Dice Mechanics
 tags:

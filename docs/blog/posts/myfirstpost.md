@@ -2,6 +2,8 @@
 date:
   created: 2023-07-04
   updated: 2024-01-06
+authors:
+  - oldmanumby
 categories:
   - Roleplaying Games
 tags:
