@@ -40,7 +40,7 @@ plugins:
   - blog
   - meta
   - tags:
-      tags_file: tags.md
+      tags_file: blog/tags.md
 
 extra:
   social:
