@@ -16,7 +16,7 @@ theme:
     - navigation.tracking
     - navigation.path
 #    - navigation.prune
-    - navigation.indexes
+#    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
