@@ -6,7 +6,7 @@ site_url: https://oldmanumby.github.io/material-for-mkdocs-template
 
 theme:
   name: material
-#  custom_dir: overrides
+  custom_dir: overrides
   features:
     - navigation.top
     - navigation.tabs
