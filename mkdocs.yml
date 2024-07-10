@@ -95,6 +95,7 @@ extra:
 plugins:
   - search
   - meta
+  - Social
   - blog:
       post_url_format: "{categories}/{slug}"
       archive_date_format: MMM yyyy
