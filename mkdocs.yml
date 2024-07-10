@@ -11,13 +11,14 @@ repo_name: oldmanumby/material-for-mkdocs-template
 repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
 
 # Copyright
-copyright: © Copyright 2024 B.A. Umberger
+copyright: © Copyright 2024 by <a href="https://oldmanumby.com" target="_blank" rel="noopener">B.A. Umberger</a>.
 
 # CONFIGURATION
 theme:
   name: material
   custom_dir: overrides
   features:
+    - header.autohide
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -30,6 +31,7 @@ theme:
     - navigation.path
     #- navigation.prune
     - navigation.top
+    - navigation.footer
     #- navigation.indexes
     - toc.integrate
     - toc.follow
@@ -111,6 +113,3 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-copyright:
-  © Copyright 2024 by <a href="https://oldmanumby.com" target="_blank" rel="noopener">B.A. Umberger</a>
