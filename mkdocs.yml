@@ -66,8 +66,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/branding/favicon.png
-  logo: assets/branding/logo.svg
+  favicon: assets/branding/favicon_blk.png
+  logo: assets/branding/logo_blk.svg
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
