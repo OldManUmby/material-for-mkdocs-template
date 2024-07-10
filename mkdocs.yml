@@ -86,6 +86,7 @@ plugins:
       tags_file: blog/tags.md
 
 extra:
+  generator: false
   social:
     - icon: /fontawesome/regular/envelope
       name: Contact Old Man Umby
