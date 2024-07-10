@@ -57,7 +57,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: default
+      scheme: slate
       primary: custom
       accent: custom
       toggle:
