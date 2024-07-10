@@ -8,5 +8,5 @@
 }
 
 [data-md-color-scheme="slate"] {
-    --md-hue: 210;
+    --md-hue: hsla(215, 30%, 15%, 1);
 }
