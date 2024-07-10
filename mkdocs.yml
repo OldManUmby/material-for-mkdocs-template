@@ -51,15 +51,15 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
