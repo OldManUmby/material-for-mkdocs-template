@@ -52,14 +52,14 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: lime
-      accent: light green
+      accent: yellow
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: lime
-      accent: light green
+      accent: yellow
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
