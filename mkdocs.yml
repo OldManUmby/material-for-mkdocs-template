@@ -9,6 +9,7 @@ site_description: An demo GitHub template for Material for MkDocs Insiders Editi
 # REPOSITORY
 repo_name: oldmanumby/material-for-mkdocs-template
 repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: © Copyright 2024 by <a href="https://oldmanumby.com" target="_blank" rel="noopener">B.A. Umberger</a>
@@ -40,6 +41,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
+    - content.action.view
   language: en
   palette:
     - media: "(prefers-color-scheme)"
@@ -67,6 +70,8 @@ theme:
   logo: assets/branding/logo.svg
   icon:
     repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
 
 extra_css:
   - stylesheets/extra.css
