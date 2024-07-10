@@ -94,6 +94,7 @@ extra:
 
 plugins:
   - search
+  - meta
   - blog:
       post_url_format: "{categories}/{slug}"
       archive_date_format: MMM yyyy
@@ -103,9 +104,10 @@ plugins:
       pagination_per_page: 10
       archive_pagination_per_page: 10
       categories_pagination_per_page: 10
-  - meta
   - tags:
       tags_file: blog/tags.md
+  #- projects:
+  #    cache: true
 
 markdown_extensions:
   - pymdownx.arithmatex:
