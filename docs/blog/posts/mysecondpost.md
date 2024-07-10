@@ -20,6 +20,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 >This is a sample blog post. Posts are published based upon the information contained in the YAML header.
 
+<!-- more -->
+
 ## Sample Heading 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
