@@ -140,5 +140,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+      permalink: ⚓︎
       toc_depth: 3
   - footnotes
