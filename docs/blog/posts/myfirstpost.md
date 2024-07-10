@@ -1,18 +1,22 @@
 ---
+title: Sample Post One
+# slug: slug here
+categories:
+  - Roleplaying Games
+icon: material/emoticon-happy
+status: new
+tags:
+  - Characters
+  - Races
+  - Classes
+pin: false
 date:
   created: 2023-07-04
   updated: 2023-12-01
 authors:
   - oldmanumby
-categories:
-  - Roleplaying Games
-tags:
-  - Characters
-  - Races
-  - Classes
 readtime: 6
-pin: false
-# slug: slug here
+description: Blah, Blah Blah.
 ---
 
 # Sample Blog Post 1

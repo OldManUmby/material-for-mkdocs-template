@@ -1,17 +1,21 @@
 ---
+title: Sample Post Two
+# slug: slug here
+categories:
+  - Dice Mechanics
+icon: material/emoticon-happy
+status: new
+tags:
+  - Combat
+  - Healing
+pin: false
 date:
   created: 2024-07-04
   updated: 2024-07-04
 authors:
   - oldmanumby
-categories:
-  - Dice Mechanics
-tags:
-  - Combat
-  - Healing
 readtime: 3
-pin: false
-# slug: slug here
+description: Blah, Blah Blah.
 ---
 
 # Sample Blog Post Draft

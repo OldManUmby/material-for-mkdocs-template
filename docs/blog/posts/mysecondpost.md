@@ -1,17 +1,21 @@
 ---
+title: Sample Post Two
+# slug: slug here
+categories:
+  - Dice Mechanics
+icon: material/emoticon-happy
+status: new
+tags:
+  - Abilities
+  - Skills
+pin: false
 date:
   created: 2023-09-04
   updated: 2023-10-31
 authors:
   - oldmanumby
-categories:
-  - Dice Mechanics
-tags:
-  - Abilities
-  - Skills
 readtime: 5
-pin: true
-# slug: slug here
+description: Blah, Blah Blah.
 ---
 
 # Sample Pinned Post 2

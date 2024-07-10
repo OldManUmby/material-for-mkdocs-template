@@ -78,6 +78,8 @@ extra_css:
 
 extra:
   generator: false
+  status:
+    Add: Recently Added
   social:
     - icon: /fontawesome/regular/envelope
       name: Contact Old Man Umby
