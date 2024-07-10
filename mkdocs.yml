@@ -65,6 +65,8 @@ theme:
     code: Roboto Mono
   favicon: assets/branding/favicon.png
   logo: assets/branding/logo.svg
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - stylesheets/extra.css
