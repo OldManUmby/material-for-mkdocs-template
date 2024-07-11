@@ -1,6 +1,6 @@
 # Special instructions go here.
 
-# PROJECT INFORMATION
+# PROJECT
 site_name: Material for MkDocs Template Demo
 site_author: B.A. Umberger
 site_url: https://oldmanumby.github.io/material-for-mkdocs-template
@@ -73,9 +73,7 @@ theme:
     - content.action.edit
     - content.action.view
 
-extra_css:
-  - stylesheets/extra.css
-
+# EXTRA CONFIGURATION
 extra:
   generator: false
   status:
@@ -91,9 +89,14 @@ extra:
       name: Old Man Umby on Twitter
       link: https://twitter.com/oldmanumby
 
+# CSS OVERRIDES
+extra_css:
+  - stylesheets/extra.css
+
 # If you're NOT a Material for MkDocs Insider, remove the following plugins.
 # Remove: meta, optimize, projects, typset.
 
+# PLUGINS
 plugins:
   - search
   - meta
@@ -113,6 +116,7 @@ plugins:
   #- projects:
   #    cache: true
 
+# MARKDOWN
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
