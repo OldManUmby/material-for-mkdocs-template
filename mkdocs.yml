@@ -98,7 +98,10 @@ extra_css:
 
 # PLUGINS
 plugins:
-  - search
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
   - meta
   - typeset
   - social
@@ -118,6 +121,15 @@ plugins:
 
 # MARKDOWN
 markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+      permalink: 🔗
+      toc_depth: 3
+  - footnotes
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.emoji:
@@ -138,12 +150,3 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.superfences
-  - admonition
-  - attr_list
-  - def_list
-  - tables
-  - toc:
-      permalink: true
-      permalink: 🔗
-      toc_depth: 3
-  - footnotes
