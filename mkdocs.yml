@@ -151,6 +151,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+# not_in_nav: |
+  /tutorials/**/*.md
+
 # MENU TREE
 nav:
   - Home: index.md
