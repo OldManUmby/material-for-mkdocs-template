@@ -152,7 +152,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 # not_in_nav: |
-  /tutorials/**/*.md
+#  /tutorials/**/*.md
 
 # MENU TREE
 nav:
