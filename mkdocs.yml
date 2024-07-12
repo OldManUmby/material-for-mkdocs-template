@@ -89,6 +89,9 @@ extra:
     - icon: fontawesome/brands/github
       name: Old Man Umby on Github
       link: https://github.com/OldManUmby
+    - icon: fontawesome/brands/mastodon
+      name: Old Man Umby on Mastodon
+      link: https://mastodon.social/@oldmanumby
     - icon: fontawesome/brands/x-twitter
       name: Old Man Umby on Twitter
       link: https://twitter.com/oldmanumby
