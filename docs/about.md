@@ -55,3 +55,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
     [:octicons-arrow-right-24: License](#)
 </div>
+
+**Sample Definition List**
+
+`Lorem ipsum dolor sit amet`
+
+:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
+    tellus non sem sollicitudin, quis rutrum leo facilisis.
+
+`Cras arcu libero`
+
+:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
+    ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+
+    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+    Nam vulputate tincidunt fringilla.
+    Nullam dignissim ultrices urna non auctor.
+
+**Ssmple Task List**
+
+- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- [ ] Vestibulum convallis sit amet nisi a tincidunt
+    * [x] In hac habitasse platea dictumst
+    * [x] In scelerisque nibh non dolor mollis congue sed et metus
+    * [ ] Praesent sed risus massa
+- [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
