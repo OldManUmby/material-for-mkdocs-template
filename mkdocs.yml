@@ -95,7 +95,7 @@ extra:
 
 # CSS OVERRIDES
 extra_css:
-  - stylesheets/extra.css
+  - _stylesheets/extra.css
 
 # If you're NOT a Material for MkDocs Insider, remove the following plugins.
 # Remove: meta, optimize, projects, typset.
