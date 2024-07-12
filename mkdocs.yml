@@ -25,6 +25,8 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil 
     view: material/eye
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
   font:
     text: Roboto
     code: Roboto Mono
@@ -76,6 +78,7 @@ theme:
 
 # EXTRA CONFIGURATION
 extra:
+#  homepage: https://oldmanumby.github.io/material-for-mkdocs-template
   generator: false
   status:
     Add: Recently Added
