@@ -7,5 +7,3 @@ Welcome! This demo site was created using a [Material for MkDocs GitHub Template
 I've set up this site as a template specifically for the laymen. Visit the [Material for MkDocs GitHub Template](https://github.com/OldManUmby/material-for-mkdocs-template) GitHub repo and click the green button "Use this Template" to create a new documentation repo complete with GitHub Pages. It takes less than a few minutes! Then, add a domain (optional) and begin adding your markdown docs as pages to the site.
 
 To customize the site, adjust the mkdocs.yml file to suit your needs; for more info on customizing the site, visit [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
-
-**Here is a sample intra link with page preveiw:** [Hover over this link to preveiw the blog page](/material-for-mkdocs-template/blog/#posts){ data-preview }.
