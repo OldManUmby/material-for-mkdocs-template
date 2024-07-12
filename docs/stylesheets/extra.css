@@ -1,3 +1,7 @@
+[data-md-color-scheme="slate"] {
+    --md-hue: 210;
+}
+
 :root {
     --md-primary-fg-color: #e54040;
     --md-primary-fg-color--light: #e54040;
@@ -8,6 +12,7 @@
     --md-primary-bg-color: #ffffff;
 }
 
-[data-md-color-scheme="slate"] {
-    --md-hue: 210;
+:root {
+    --md-text-font: "Roboto";
+    --md-code-font: "Roboto mono";
 }

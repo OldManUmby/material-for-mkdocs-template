@@ -33,6 +33,7 @@ theme:
       toggle:
         icon: material/link
         name: Switch to light mode
+# For custom colors see CSS Overrides below
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom
