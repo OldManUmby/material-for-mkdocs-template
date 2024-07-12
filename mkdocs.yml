@@ -93,9 +93,11 @@ extra:
       name: Old Man Umby on Twitter
       link: https://twitter.com/oldmanumby
 
-# CSS OVERRIDES
+# OVERRIDES
 extra_css:
-  - ../stylesheets/extra.css
+  - _stylesheets/extra.css
+extra_javascript:
+  - _javascripts/extra.js
 
 # If you're NOT a Material for MkDocs Insider, remove the following plugins.
 # Remove: meta, optimize, projects, typset.
