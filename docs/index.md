@@ -8,4 +8,4 @@ I've set up this site as a template specifically for the laymen. Visit the [Mate
 
 To customize the site, adjust the mkdocs.yml file to suit your needs; for more info on customizing the site, visit [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-**Here is a sample intra link with page preveiw:** [Hover over this link to preveiw the blog page](#).
+**Here is a sample intra link with page preveiw:** [Hover over this link to preveiw the blog page](#Posts).
