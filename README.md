@@ -7,8 +7,3 @@ I've set up this repo as a template specifically for the laymen. Click the green
 To view a more thorough step-by-step installation, including a running local instances, visit [James Willitt's YouTube video](https://youtu.be/Q-YA_dA8C20?si=l00iX2nvDRIFSwOb).
 
 To customize the site, adjust the mkdocs.yml file to suit your needs; for more info on customizing the site, visit [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/).
-
-**Here is a sample intra link:**
-``` markdown
-[Hover over this link to preveiw the blog page](#){https://oldmanumby.github.io/material-for-mkdocs-template/blog/#posts}
-```
