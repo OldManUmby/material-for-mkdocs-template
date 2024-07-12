@@ -122,8 +122,16 @@ plugins:
       categories_pagination_per_page: 10
   - tags:
       tags_file: blog/tags.md
-  #- projects:
-  #    cache: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+#     comments_path: "#__comments"
+# - projects:
+#     cache: true
 
 # MARKDOWN
 markdown_extensions:
