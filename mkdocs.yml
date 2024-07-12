@@ -132,6 +132,7 @@ plugins:
 # MARKDOWN
 markdown_extensions:
   - admonition
+  - md_in_html
   - attr_list
   - def_list
   - tables
