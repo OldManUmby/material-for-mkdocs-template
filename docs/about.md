@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**Sample Table**
+## Sample Table
 
 | Sample Table | Heading | Heading | Heading |
 | ------------ | ------- | ------- | ------- |
@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Row          | Data    | Data    | Data    |
 | Row          | Data    | Data    | Data    |
 
-**Sample Grid**
+## Sample Grid
 
 <div class="grid cards" markdown>
 - :fontawesome-brands-html5: __HTML__ for content and structure
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 </div>
 
-**Sample Grid**
+### Another Sample Grid
 
 <div class="grid cards" markdown>
 -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     [:octicons-arrow-right-24: License](#)
 </div>
 
-**Sample Definition List**
+## Sample Definition List
 
 `Lorem ipsum dolor sit amet`
 
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     Nam vulputate tincidunt fringilla.
     Nullam dignissim ultrices urna non auctor.
 
-**Ssmple Task List**
+## Ssmple Task List
 
 - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
 - [ ] Vestibulum convallis sit amet nisi a tincidunt
