@@ -37,17 +37,17 @@
     font-size: 2rem;
     height: 3.5rem;
     line-height: 3.5rem;
-    font-family: "PlayFair"
+    font-family: "Roboto"
 }
 
 
 /*  Navigation tabs */
 .md-tabs__list {
-    justify-content: center;
+    justify-content: left;
 }
 
 .md-tabs__item {
-    height: 2.95rem;
+    height: 2rem;
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
@@ -57,7 +57,7 @@
 }
 
 .md-tabs {
-    font-family: "PlayFair";
+    font-family: "Roboto";
 }
 
 /* ===== ROUNDED CORNERS SITEWIDE ===== */
