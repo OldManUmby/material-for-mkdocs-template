@@ -17,7 +17,50 @@
     --md-code-font: "Roboto mono";
 }
 
-/*====== ROUNDED CORNERS SITEWIDE ======*/
+/* ===== ENHANCED HEADER ===== */
+
+.md-header__button.md-logo {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 2rem;
+    width: 2rem;
+}
+
+.md-header__title {
+    flex-grow: 1;
+    font-size: 2rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    font-family: "PlayFair"
+}
+
+
+/*  Navigation tabs */
+.md-tabs__list {
+    justify-content: center;
+}
+
+.md-tabs__item {
+    height: 2.95rem;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.md-tabs__link {
+    font-size: 1.25rem;
+}
+
+.md-tabs {
+    font-family: "PlayFair";
+}
+
+/* ===== ROUNDED CORNERS SITEWIDE ===== */
 
 :root {
     --base-border-radius: 0.5rem;
@@ -109,7 +152,7 @@ del.critic {
     border-radius: var(--base-border-radius);
 }
 
-/*====== ENHANCED BLOCKQUOTE ======*/
+/* ===== ENHANCED BLOCKQUOTE ===== */
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
