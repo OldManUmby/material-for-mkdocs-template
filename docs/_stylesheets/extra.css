@@ -34,12 +34,11 @@
 
 .md-header__title {
     flex-grow: 1;
-    font-size: 2rem;
+    font-size: 1.5rem;
     height: 3.5rem;
     line-height: 3.5rem;
-    font-family: "PlayFair"
+    font-family: "Roboto"
 }
-
 
 /*  Navigation tabs */
 .md-tabs__list {
@@ -57,7 +56,7 @@
 }
 
 .md-tabs {
-    font-family: "PlayFair";
+    font-family: "Roboto";
 }
 
 /* ===== ROUNDED CORNERS SITEWIDE ===== */
